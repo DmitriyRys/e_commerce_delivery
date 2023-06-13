@@ -1,4 +1,4 @@
-# shipping_ecommerce
+# E-Commerce Delivery
 
 Анализ датасета международной e-commerce компании, занимающейся продажей электроники.
 
